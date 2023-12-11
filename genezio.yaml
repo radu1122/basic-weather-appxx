@@ -1,0 +1,6 @@
+name: getting-started-basic-weatherxx-app-react-tailwind-weather-app
+region: us-east-1
+cloudProvider: genezio
+scripts:
+    preBackendDeploy: npm install
+language: ts
